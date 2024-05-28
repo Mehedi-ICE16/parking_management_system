@@ -1,0 +1,16 @@
+{
+  "vehicles": [
+    {
+      "id": "e635",
+      "license": "DM12345",
+      "type": "Microbus",
+      "ownerName": "Fahim Ahmed",
+      "ownerPhone": "01765454554",
+      "status": "In",
+      "ownerAddress": "Mirpur Cantonment, Dhaka",
+      "entryTime": "2024-05-28T18:15",
+      "exitTime": "2024-05-28T20:15",
+      "parkingCharge": "500"
+    }
+  ]
+}
